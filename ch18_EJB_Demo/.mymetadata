@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="EJB"
+  name="ch17_EJB_Demo"
+  id="myeclipse.1220498736015"
+  j2ee-spec="5.0"
+  archive="ch17_EJB_Demo.jar" />
+
